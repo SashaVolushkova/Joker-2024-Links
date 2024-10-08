@@ -1,3 +1,7 @@
 # Joker-2024-Links
-Example to generate DTO with @BuilderAnnotation [Lombok example](https://github.com/SashaVolushkova/JokerLombokExample)
+Generate DTO with @BuilderAnnotation [Lombok example](https://github.com/SashaVolushkova/JokerLombokExample)
+
+Set OpenaApiCustomiser to API group [OpenAPICustomiser example](https://github.com/SashaVolushkova/DemoCustomizeSpringDoc)
+
+
 
