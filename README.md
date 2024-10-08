@@ -1,3 +1,3 @@
 # Joker-2024-Links
-[Joker 2024 Links](https://github.com/SashaVolushkova/JokerLombokExample)
+Example to generate DTO with @BuilderAnnotation [Lombok example](https://github.com/SashaVolushkova/JokerLombokExample)
 
