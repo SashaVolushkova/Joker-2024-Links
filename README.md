@@ -1,6 +1,6 @@
 # Joker-2024-Links
 
-Joker 2023 Alexandra Volushkova OpenAPI and How It Can Be Applied to Kafka: [Joker](https://jokerconf.com/archive/2023/talks/cfe645d330bc4edd8ed01a96590466b9/?referer=%2Farchive%2F2023%2Fpersons%2Fa7813a8102f54d0fb568a1cfb6c5bce0%2F) [Youtube](https://www.youtube.com/watch?v=0uVcEMzd6HA)
+Joker 2023 Alexandra Volushkova OpenAPI and How It Can Be Applied to Kafka: [Joker](https://jokerconf.com/archive/2023/talks/cfe645d330bc4edd8ed01a96590466b9/?referer=%2Farchive%2F2023%2Fpersons%2Fa7813a8102f54d0fb568a1cfb6c5bce0%2F) , [Youtube](https://www.youtube.com/watch?v=0uVcEMzd6HA)
 
 Generate DTO with @BuilderAnnotation: [Lombok example](https://github.com/SashaVolushkova/JokerLombokExample)
 
